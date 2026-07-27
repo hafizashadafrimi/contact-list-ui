@@ -1,8 +1,5 @@
 # Contact List UI
 
-![Profile UI](assets/images/contact_list.png)
-
-
 ## Features
 - Contact List Screen UI
 - AppBar with Center Title
@@ -15,7 +12,7 @@
 - Responsive Layout
 
 ## UI Preview
-
+![Profile UI](assets/images/contact_list.png)
 
 ## Tech Stack
 - Flutter
