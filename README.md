@@ -1,17 +1,22 @@
-# contact_list_ui
+# Contact List UI
 
-A new Flutter project.
+![Profile UI](assets/images/contact_list.png)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Features
+- Contact List Screen UI
+- AppBar with Center Title
+- TextFormField for Name
+- TextFormField for Phone Number
+- ElevatedButton
+- ListView.builder
+- Card and ListTile
+- Person and Call Icons
+- Responsive Layout
 
-A few resources to get you started if this is your first Flutter project:
+## UI Preview
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tech Stack
+- Flutter
+- Dart
